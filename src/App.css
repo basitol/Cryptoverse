@@ -50,6 +50,10 @@ a:hover {
   align-items: center;
   width: 100%;
 }
+
+.logo-container h2 {
+  margin-top: 10px;
+}
 .logo {
   margin: 0 0 0 15px;
 }
